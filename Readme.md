@@ -1,5 +1,5 @@
 # AlienPlatformer
-Платформер про милого пришельца 👽 с далёкой планеты.
+Платформер про милого пришельца с далёкой планеты 👽
 
 Помоги ему пройти все уровни и открой всех его друзей!
 
@@ -39,3 +39,22 @@
 4. Запустить проект и подождать, пока Unity докачает нужные библиотеки
 
 5. В папке `Assets/Scenes` выбрать любую сцену and enjoy coding :)
+
+## Материалы
+Ниже представлены материалы, использованные при разработке игры.
+
+#### Unity Assets
+
+* Кнопки и UI: [2D Casual UI HD](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080)
+* Задний фон: [Free 2D Cartoon Parallax Background](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812)
+* Монетки: [Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
+
+#### Kenney
+* Персонаж и враги: [Platformer Art Extended Enemies](https://www.kenney.nl/assets/platformer-art-extended-enemies)
+
+#### Музыка и звуки
+* Фоновая музыка (Alisha_Sutudo - Titanium): [pixabay](https://pixabay.com/music/future-bass-titanium-170190/)
+* Звуки:
+    * Шестерёнка: [mixkit](https://assets.mixkit.co/active_storage/sfx/2642/2642.wav)
+    * Паук: [envato](https://elements.envato.com/ru/spider-bite-J75JDRF)
+    * Пиранья: [envato](https://elements.envato.com/ru/video-game-bite-274BNQC)
