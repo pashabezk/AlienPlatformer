@@ -5,7 +5,7 @@ public class LevelManager : MonoBehaviour
 {
 	private static int currentLevel = 1;
 	public static int openedLevels = 1;
-	private static int maxLevel = 2;
+	private static int maxLevel = 4;
 
 	public void Awake() {
 		currentLevel = PlayerPrefs.GetInt("CurrentLevel", 1);
@@ -36,4 +36,3 @@ public class LevelManager : MonoBehaviour
 		loadLevel(currentLevel);
 	}
 }
-
