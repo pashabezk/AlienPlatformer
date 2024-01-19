@@ -19,22 +19,6 @@
 * сохранение прогресса;
 * а также: главное меню, меню для выбора уровней, магазин, окно настроек с возможностью сброса прогресса
 
-## Как скачать и запустить проект
-
-1. Клонировать репозиторий с помощью команды
-
-`git clone https://github.com/pashabezk/AlienPlatformer`
-
-2. Если у Вас нет [Unity Hub](https://unity.com/ru/download), то скачать его и запустить
-
-3. В Unity Hub на вкладке Projects выбрать `Open` → `Add project from disk`, указать путь к папке
-
-`<место, где хранится проект>/AlienPlatformer/AlienPlatformer`
-
-4. Запустить проект и подождать, пока Unity докачает нужные библиотеки
-
-5. В папке `Assets/Scenes` выбрать любую сцену and enjoy coding :)
-
 ## Демонстрация
 
 ### Локации в игре
@@ -75,6 +59,29 @@
 
 <img src="./Screenshots/Pause.png" alt="Level 4" width="600px"/>
 
+## Как скачать и запустить проект
+
+### Вариант 1
+
+Скачать архив с игрой со страницы [релизов](https://github.com/pashabezk/AlienPlatformer/releases).
+
+### Вариант 2
+
+Запустить исходный проект с помощью [Unity](https://unity.com/). Для этого выполните следующие шаги:
+
+1. Клонировать репозиторий с помощью команды
+
+`git clone https://github.com/pashabezk/AlienPlatformer`
+
+2. Если у Вас нет [Unity Hub](https://unity.com/ru/download), то скачать его и запустить
+
+3. В Unity Hub на вкладке Projects выбрать `Open` → `Add project from disk`, указать путь к папке
+
+`<место, где хранится проект>/AlienPlatformer/AlienPlatformer`
+
+4. Запустить проект и подождать, пока Unity докачает нужные библиотеки
+
+5. В папке `Assets/Scenes` выбрать любую сцену and enjoy coding :)
 
 ## Материалы
 Ниже представлены материалы, использованные при разработке игры.
