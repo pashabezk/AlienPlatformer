@@ -43,37 +43,37 @@
 
 #### Вечерняя долина
 
-<img src="./Screenshots/Level1.gif" alt="Level 1" width="700px"/>
+<img src="./Screenshots/Level1.gif" alt="Level 1" width="600px"/>
 
 #### Таинственный лес
 
-<img src="./Screenshots/Level2.gif" alt="Level 2" width="700px"/>
+<img src="./Screenshots/Level2.gif" alt="Level 2" width="600px"/>
 
 #### Заснеженные горы
 
-<img src="./Screenshots/Level3.gif" alt="Level 3" width="700px"/>
+<img src="./Screenshots/Level3.gif" alt="Level 3" width="600px"/>
 
 #### Раскалённая пустыня
 
-<img src="./Screenshots/Level4.gif" alt="Level 4" width="700px"/>
+<img src="./Screenshots/Level4.gif" alt="Level 4" width="600px"/>
 
 ### Сцены в игре
 
 #### Магазин
 
-<img src="./Screenshots/Shop.png" alt="Level 4" width="700px"/>
+<img src="./Screenshots/Shop.png" alt="Level 4" width="600px"/>
 
 Всплывающее окошечко, чтобы уж точно не купить ничего лишнего
 
-<img src="./Screenshots/Shop_confirm.png" alt="Level 4" width="700px"/>
+<img src="./Screenshots/Shop_confirm.png" alt="Level 4" width="600px"/>
 
 #### Выбор уровня
 
-<img src="./Screenshots/Level_selector.png" alt="Level 4" width="700px"/>
+<img src="./Screenshots/Level_selector.png" alt="Level 4" width="600px"/>
 
 #### Пауза
 
-<img src="./Screenshots/Pause.png" alt="Level 4" width="700px"/>
+<img src="./Screenshots/Pause.png" alt="Level 4" width="600px"/>
 
 
 ## Материалы
